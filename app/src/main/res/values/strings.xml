@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UniversalDL</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="input_hint">Enter link here</string>
+    <string name="logo_desc">epic logo</string>
+    <string name="forward_button">Forward</string>
+    <string name="back_button">Back</string>
+    <string name="video_confirmation" />
+    <string name="video_confirm">Resource Information</string>
+    <string name="name">"Name : "</string>
+    <string name="desc">"Description : "</string>
+    <string name="duration">Duration :</string>
+    <string name="thumbnail">Thumbnail :</string>
+    <string name="download">Download</string>
+    <string name="format">Format</string>
+    <string name="quality">Quality</string>
+    <string name="thumbnailDesc">Video thumbnail</string>
+</resources>
